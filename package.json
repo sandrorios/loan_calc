@@ -1,0 +1,19 @@
+{
+  "name": "loan_calc",
+  "version": "1.0.0",
+  "description": "a loan calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "loan_calc"
+  },
+  "keywords": [
+    "loan",
+    "calculator"
+  ],
+  "author": "Sammy",
+  "license": "MIT"
+}
